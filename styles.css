@@ -1,0 +1,15 @@
+body {font-family: 'Cinzel', serif;}
+
+.navegacion {text-transform: uppercase;}
+
+.panel-navegacion {list-style: none;}
+footer {background-color : #000;}
+
+
+.none {text-decoration: none;
+font-weight: 900;}
+
+.navegacion {display: flex;
+width: 10px;}
+
+#imgback {background-image: image (../img/1.jpg);}
